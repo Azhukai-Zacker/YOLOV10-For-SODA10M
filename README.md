@@ -7,7 +7,9 @@
 ''''
 
 #训练验证
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/abbec6ed-92ba-458e-9a81-c02b0e899059)
+
 
 #验证结果
-![img_1.png](img_1.png)
+<img width="845" alt="bd55e01829f20ac85cdb4accf3f1260" src="https://github.com/user-attachments/assets/d9ad9b02-cf91-4908-a188-f65c39b78db2">
+
